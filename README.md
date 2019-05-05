@@ -1,5 +1,7 @@
 # C
 
+
+
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
 	- Lagrange_Theorem
